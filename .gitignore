@@ -1,3 +1,10 @@
+# custom
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+.dev/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
